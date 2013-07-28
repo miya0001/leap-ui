@@ -18,7 +18,7 @@ Easy way to integrate gesture control on your WordPress sites with Leap Motion.
 - Scroll Up: Spin your finger to the right.
 - Scroll to the Top: Swipe your hand.
 
-Coming soon!
+= Coming soon! =
 
 - Click hyper links.
 - Go to the next articles.
